@@ -1,0 +1,9 @@
+create nm project
+create index css js files
+install dependencies express, nodemon(dev dep.)
+createa express server server.js
+do front end
+install socket.io setup socket.io in server.js and client.js
+cleint send msg logic in client.js
+receive msg on server and broadcast to all client
+receive msg on client and dislay it scrollToBottom etc..
